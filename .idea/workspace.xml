@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdd770f1-2ebe-4130-9d10-5bba9f991afc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-announcer/iron-a11y-announcer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-input/iron-input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/iron-range-behavior/iron-range-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-input/paper-input-addon-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-input/paper-input-behavior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-input/paper-input-char-counter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-input/paper-input-container.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-input/paper-input-error.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-input/paper-input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-progress/paper-progress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/paper-slider/paper-slider.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/my-new-view.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-drawer-layout/app-drawer-layout.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-drawer-layout/app-drawer-layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-drawer/app-drawer.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-drawer/app-drawer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-header-layout/app-header-layout.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-header-layout/app-header-layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-header/app-header.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-header/app-header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/app-scroll-effects-behavior.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/app-scroll-effects-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/blend-background.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/blend-background.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/fade-background.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/fade-background.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/material.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/material.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/parallax-background.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/parallax-background.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/resize-snapped-title.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/resize-snapped-title.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/resize-title.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/resize-title.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/waterfall.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-scroll-effects/effects/waterfall.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/app-toolbar/app-toolbar.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/app-toolbar/app-toolbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-layout/helpers/helpers.html" afterPath="$PROJECT_DIR$/bower_components/app-layout/helpers/helpers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-route/app-location.html" afterPath="$PROJECT_DIR$/bower_components/app-route/app-location.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-route/app-route-converter-behavior.html" afterPath="$PROJECT_DIR$/bower_components/app-route/app-route-converter-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/app-route/app-route.html" afterPath="$PROJECT_DIR$/bower_components/app-route/app-route.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/font-roboto/roboto.html" afterPath="$PROJECT_DIR$/bower_components/font-roboto/roboto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html" afterPath="$PROJECT_DIR$/bower_components/iron-a11y-keys-behavior/iron-a11y-keys-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-button-state.html" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-button-state.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-control-state.html" afterPath="$PROJECT_DIR$/bower_components/iron-behaviors/iron-control-state.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-flex-layout/iron-flex-layout.html" afterPath="$PROJECT_DIR$/bower_components/iron-flex-layout/iron-flex-layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/iron-form-element-behavior.html" afterPath="$PROJECT_DIR$/bower_components/iron-form-element-behavior/iron-form-element-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-icon/iron-icon.html" afterPath="$PROJECT_DIR$/bower_components/iron-icon/iron-icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-iconset-svg/iron-iconset-svg.html" afterPath="$PROJECT_DIR$/bower_components/iron-iconset-svg/iron-iconset-svg.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-location/iron-location.html" afterPath="$PROJECT_DIR$/bower_components/iron-location/iron-location.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-location/iron-query-params.html" afterPath="$PROJECT_DIR$/bower_components/iron-location/iron-query-params.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-media-query/iron-media-query.html" afterPath="$PROJECT_DIR$/bower_components/iron-media-query/iron-media-query.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-meta/iron-meta.html" afterPath="$PROJECT_DIR$/bower_components/iron-meta/iron-meta.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-pages/iron-pages.html" afterPath="$PROJECT_DIR$/bower_components/iron-pages/iron-pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/iron-resizable-behavior.html" afterPath="$PROJECT_DIR$/bower_components/iron-resizable-behavior/iron-resizable-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-scroll-target-behavior/iron-scroll-target-behavior.html" afterPath="$PROJECT_DIR$/bower_components/iron-scroll-target-behavior/iron-scroll-target-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-multi-selectable.html" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-multi-selectable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-selectable.html" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-selectable.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-selection.html" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-selection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-selector/iron-selector.html" afterPath="$PROJECT_DIR$/bower_components/iron-selector/iron-selector.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/iron-validatable-behavior.html" afterPath="$PROJECT_DIR$/bower_components/iron-validatable-behavior/iron-validatable-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-inky-focus-behavior.html" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-inky-focus-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-ripple-behavior.html" afterPath="$PROJECT_DIR$/bower_components/paper-behaviors/paper-ripple-behavior.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/paper-icon-button/paper-icon-button.html" afterPath="$PROJECT_DIR$/bower_components/paper-icon-button/paper-icon-button.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/paper-ripple/paper-ripple.html" afterPath="$PROJECT_DIR$/bower_components/paper-ripple/paper-ripple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/paper-styles/color.html" afterPath="$PROJECT_DIR$/bower_components/paper-styles/color.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/paper-styles/default-theme.html" afterPath="$PROJECT_DIR$/bower_components/paper-styles/default-theme.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/paper-styles/typography.html" afterPath="$PROJECT_DIR$/bower_components/paper-styles/typography.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-micro.html" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer-micro.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer-mini.html" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer-mini.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/polymer/polymer.html" afterPath="$PROJECT_DIR$/bower_components/polymer/polymer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/.bower.json" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.min.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/CustomElements.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.min.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/HTMLImports.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.min.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/MutationObserver.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/README.md" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.min.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/ShadowDOM.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/bower.json" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/build.log" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/build.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.min.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents-lite.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.min.js" afterPath="$PROJECT_DIR$/bower_components/webcomponentsjs/webcomponents.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service-worker.js" afterPath="$PROJECT_DIR$/service-worker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/my-app.html" afterPath="$PROJECT_DIR$/src/my-app.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/my-icons.html" afterPath="$PROJECT_DIR$/src/my-icons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/my-view1.html" afterPath="$PROJECT_DIR$/src/my-view1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/my-view2.html" afterPath="$PROJECT_DIR$/src/my-view2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/my-view3.html" afterPath="$PROJECT_DIR$/src/my-view3.html" />
+    </list>
+    <ignored path="nightBulb.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nightBulb.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-app.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my-app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.25">
+              <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-icons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my-icons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-view1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/my-view1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my-view404.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/my-view404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/my-app.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="336" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nightBulb.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nightBulb.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nightBulb.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nightBulb.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nightBulb.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="prop_add_unversioned_files" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdd770f1-2ebe-4130-9d10-5bba9f991afc" name="Default" comment="" />
+      <created>1485465120363</created>
+      <option name="number" value="Default" />
+      <updated>1485465120363</updated>
+      <workItem from="1485465123518" duration="900000" />
+      <workItem from="1486745979097" duration="173000" />
+      <workItem from="1486748134359" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1686000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="336" width="1366" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23133236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2735849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.25">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/my-view404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
